@@ -19,16 +19,11 @@ This repository contains a simple chatbot application created using Java by Limo
 
 ## Usage
 
-1.
- Clone the repository
-2.
- Compile the code
-3.
- Run the application
-4.
- Enter the prompt
-5.
- Bot will answer as the prompt is
+1.Clone the repository
+2.Compile the code
+3.Run the application
+4.Enter the prompt
+5.Bot will answer as the prompt is
 
 ## Contributing
 
